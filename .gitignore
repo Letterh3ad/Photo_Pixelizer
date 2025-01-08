@@ -1,2 +1,5 @@
 
 /pixel_venv
+main.spec
+/build
+dist/main.exe
